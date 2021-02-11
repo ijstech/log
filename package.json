@@ -1,7 +1,7 @@
 {
     "name": "@ijstech/log",
     "description": "Log plugin",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "dependencies": {},
     "author": "https://ijs.network",
     "license": "MIT",
