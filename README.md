@@ -1,2 +1,2 @@
 # @ijstech/log
-Log plugin for [Secure Application Server](https://github.com/ijstech/node)
+Log plugin for [IJS Secure Node Server](https://github.com/ijstech/node)
